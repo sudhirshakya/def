@@ -53,14 +53,14 @@ layout: default
    5. Passing pointer to a function
    6. Pointers and structures
 10. Data Files
-   1. Defining opening and closing a file
-   2. Input/output operations on files
-   3. Error handling during input/output operations
+    1. Defining opening and closing a file
+    2. Input/output operations on files
+    3. Error handling during input/output operations
 11. Programming Languages: FORTRAN
-   1. Character set
-   2. Data types, constants and variables
-   3. Arithmetic operations, library functions
-   4. Structure of Fortran program
-   5. Formatted and unformatted Input/output statements
-   6. Control structures: GOTO, logical IF,Arithmetic IF, DO loops
-   7. Arrays: One-dimensional and two-dimensional
+    1. Character set
+    2. Data types, constants and variables
+    3. Arithmetic operations, library functions
+    4. Structure of Fortran program
+    5. Formatted and unformatted Input/output statements
+    6. Control structures: GOTO, logical IF,Arithmetic IF, DO loops
+    7. Arrays: One-dimensional and two-dimensional
