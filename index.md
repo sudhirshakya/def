@@ -1,5 +1,6 @@
 ---
-title: MySQL Database replication
+title: Computer Programming
 layout: default
 ---
-Sudhir Shakya
+
+I will post the course syllabus, class notes in this site.
